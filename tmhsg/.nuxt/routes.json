@@ -1,0 +1,450 @@
+[
+  {
+    "name": "apptmhsg",
+    "path": "/apptmhsg",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\apptmhsg.vue",
+    "chunkName": "pages/apptmhsg",
+    "_name": "_9d459530"
+  },
+  {
+    "name": "taotaikhoan",
+    "path": "/taotaikhoan",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\taotaikhoan.vue",
+    "chunkName": "pages/taotaikhoan",
+    "_name": "_cff5a4e2"
+  },
+  {
+    "name": "thongtintaikhoan",
+    "path": "/thongtintaikhoan",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thongtintaikhoan.vue",
+    "chunkName": "pages/thongtintaikhoan",
+    "_name": "_41f863a4"
+  },
+  {
+    "name": "thulao-68-admin",
+    "path": "/thulao/68/admin",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\68\\\\admin\\\\index.vue",
+    "chunkName": "pages/thulao/68/admin/index",
+    "_name": "_3c301fe4"
+  },
+  {
+    "name": "thulao-68-cdcls",
+    "path": "/thulao/68/cdcls",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\68\\\\cdcls\\\\index.vue",
+    "chunkName": "pages/thulao/68/cdcls/index",
+    "_name": "_1eab49ca"
+  },
+  {
+    "name": "thulao-68-congkham",
+    "path": "/thulao/68/congkham",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\68\\\\congkham\\\\index.vue",
+    "chunkName": "pages/thulao/68/congkham/index",
+    "_name": "_431ebaf3"
+  },
+  {
+    "name": "thulao-68-congkhambh",
+    "path": "/thulao/68/congkhambh",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\68\\\\congkhambh\\\\index.vue",
+    "chunkName": "pages/thulao/68/congkhambh/index",
+    "_name": "_15d4eea6"
+  },
+  {
+    "name": "thulao-68-gayme",
+    "path": "/thulao/68/gayme",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\68\\\\gayme\\\\index.vue",
+    "chunkName": "pages/thulao/68/gayme/index",
+    "_name": "_f9885d08"
+  },
+  {
+    "name": "thulao-68-gaymebh",
+    "path": "/thulao/68/gaymebh",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\68\\\\gaymebh\\\\index.vue",
+    "chunkName": "pages/thulao/68/gaymebh/index",
+    "_name": "_bb71be14"
+  },
+  {
+    "name": "thulao-68-thcls",
+    "path": "/thulao/68/thcls",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\68\\\\thcls\\\\index.vue",
+    "chunkName": "pages/thulao/68/thcls/index",
+    "_name": "_fe6ea2c6"
+  },
+  {
+    "name": "thulao-68-thclsbh",
+    "path": "/thulao/68/thclsbh",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\68\\\\thclsbh\\\\index.vue",
+    "chunkName": "pages/thulao/68/thclsbh/index",
+    "_name": "_701139d7"
+  },
+  {
+    "name": "thulao-68-thuthuat",
+    "path": "/thulao/68/thuthuat",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\68\\\\thuthuat\\\\index.vue",
+    "chunkName": "pages/thulao/68/thuthuat/index",
+    "_name": "_55e837a4"
+  },
+  {
+    "name": "thulao-68-thuthuatbh",
+    "path": "/thulao/68/thuthuatbh",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\68\\\\thuthuatbh\\\\index.vue",
+    "chunkName": "pages/thulao/68/thuthuatbh/index",
+    "_name": "_7f4561b0"
+  },
+  {
+    "name": "thulao-68-tonghop",
+    "path": "/thulao/68/tonghop",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\68\\\\tonghop\\\\index.vue",
+    "chunkName": "pages/thulao/68/tonghop/index",
+    "_name": "_3a5e96de"
+  },
+  {
+    "name": "thulao-915-admin",
+    "path": "/thulao/915/admin",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\admin\\\\index.vue",
+    "chunkName": "pages/thulao/915/admin/index",
+    "_name": "_3e3f9591"
+  },
+  {
+    "name": "thulao-915-cdcls",
+    "path": "/thulao/915/cdcls",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\cdcls\\\\index.vue",
+    "chunkName": "pages/thulao/915/cdcls/index",
+    "_name": "_20babf77"
+  },
+  {
+    "name": "thulao-915-clskskdk",
+    "path": "/thulao/915/clskskdk",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\clskskdk\\\\index.vue",
+    "chunkName": "pages/thulao/915/clskskdk/index",
+    "_name": "_04ab68f4"
+  },
+  {
+    "name": "thulao-915-congkham",
+    "path": "/thulao/915/congkham",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\congkham\\\\index.vue",
+    "chunkName": "pages/thulao/915/congkham/index",
+    "_name": "_082dca26"
+  },
+  {
+    "name": "thulao-915-congkhamkskdk",
+    "path": "/thulao/915/congkhamkskdk",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\congkhamkskdk\\\\index.vue",
+    "chunkName": "pages/thulao/915/congkhamkskdk/index",
+    "_name": "_6e854f24"
+  },
+  {
+    "name": "thulao-915-dieuduonglamhsksk",
+    "path": "/thulao/915/dieuduonglamhsksk",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\dieuduonglamhsksk\\\\index.vue",
+    "chunkName": "pages/thulao/915/dieuduonglamhsksk/index",
+    "_name": "_10e0fe1e"
+  },
+  {
+    "name": "thulao-915-gayme",
+    "path": "/thulao/915/gayme",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\gayme\\\\index.vue",
+    "chunkName": "pages/thulao/915/gayme/index",
+    "_name": "_f56971ae"
+  },
+  {
+    "name": "thulao-915-gaymeksk",
+    "path": "/thulao/915/gaymeksk",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\gaymeksk\\\\index.vue",
+    "chunkName": "pages/thulao/915/gaymeksk/index",
+    "_name": "_7fdcba68"
+  },
+  {
+    "name": "thulao-915-ksktd",
+    "path": "/thulao/915/ksktd",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\ksktd\\\\index.vue",
+    "chunkName": "pages/thulao/915/ksktd/index",
+    "_name": "_fe7a8ea6"
+  },
+  {
+    "name": "thulao-915-ngoaigio",
+    "path": "/thulao/915/ngoaigio",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\ngoaigio\\\\index.vue",
+    "chunkName": "pages/thulao/915/ngoaigio/index",
+    "_name": "_a1d31036"
+  },
+  {
+    "name": "thulao-915-ngoaivien",
+    "path": "/thulao/915/ngoaivien",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\ngoaivien\\\\index.vue",
+    "chunkName": "pages/thulao/915/ngoaivien/index",
+    "_name": "_214dbce6"
+  },
+  {
+    "name": "thulao-915-ngoaivienvaonoivien",
+    "path": "/thulao/915/ngoaivienvaonoivien",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\ngoaivienvaonoivien\\\\index.vue",
+    "chunkName": "pages/thulao/915/ngoaivienvaonoivien/index",
+    "_name": "_b1e21fb4"
+  },
+  {
+    "name": "thulao-915-thcls",
+    "path": "/thulao/915/thcls",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\thcls\\\\index.vue",
+    "chunkName": "pages/thulao/915/thcls/index",
+    "_name": "_fa4fb76c"
+  },
+  {
+    "name": "thulao-915-thuthuat",
+    "path": "/thulao/915/thuthuat",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\thuthuat\\\\index.vue",
+    "chunkName": "pages/thulao/915/thuthuat/index",
+    "_name": "_cbca193e"
+  },
+  {
+    "name": "thulao-915-tonghopdv",
+    "path": "/thulao/915/tonghopdv",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\tonghopdv\\\\index.vue",
+    "chunkName": "pages/thulao/915/tonghopdv/index",
+    "_name": "_415e0539"
+  },
+  {
+    "name": "thulao-915-tonghopksk",
+    "path": "/thulao/915/tonghopksk",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\tonghopksk\\\\index.vue",
+    "chunkName": "pages/thulao/915/tonghopksk/index",
+    "_name": "_2fad6106"
+  },
+  {
+    "name": "thulao-915-tongkeths",
+    "path": "/thulao/915/tongkeths",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\915\\\\tongkeths\\\\index.vue",
+    "chunkName": "pages/thulao/915/tongkeths/index",
+    "_name": "_e4206ea2"
+  },
+  {
+    "name": "thulao-benhvien-admin",
+    "path": "/thulao/benhvien/admin",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\benhvien\\\\admin\\\\index.vue",
+    "chunkName": "pages/thulao/benhvien/admin/index",
+    "_name": "_7c493d0a"
+  },
+  {
+    "name": "thulao-benhvien-cdcls",
+    "path": "/thulao/benhvien/cdcls",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\benhvien\\\\cdcls\\\\index.vue",
+    "chunkName": "pages/thulao/benhvien/cdcls/index",
+    "_name": "_b752e93e"
+  },
+  {
+    "name": "thulao-benhvien-cdpt",
+    "path": "/thulao/benhvien/cdpt",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\benhvien\\\\cdpt\\\\index.vue",
+    "chunkName": "pages/thulao/benhvien/cdpt/index",
+    "_name": "_0397ca65"
+  },
+  {
+    "name": "thulao-benhvien-chamsocsaupt",
+    "path": "/thulao/benhvien/chamsocsaupt",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\benhvien\\\\chamsocsaupt\\\\index.vue",
+    "chunkName": "pages/thulao/benhvien/chamsocsaupt/index",
+    "_name": "_b5e31596"
+  },
+  {
+    "name": "thulao-benhvien-congkham",
+    "path": "/thulao/benhvien/congkham",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\benhvien\\\\congkham\\\\index.vue",
+    "chunkName": "pages/thulao/benhvien/congkham/index",
+    "_name": "_77647dfc"
+  },
+  {
+    "name": "thulao-benhvien-dieutrinoitru",
+    "path": "/thulao/benhvien/dieutrinoitru",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\benhvien\\\\dieutrinoitru\\\\index.vue",
+    "chunkName": "pages/thulao/benhvien/dieutrinoitru/index",
+    "_name": "_1562e805"
+  },
+  {
+    "name": "thulao-benhvien-gayme",
+    "path": "/thulao/benhvien/gayme",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\benhvien\\\\gayme\\\\index.vue",
+    "chunkName": "pages/thulao/benhvien/gayme/index",
+    "_name": "_08e71313"
+  },
+  {
+    "name": "thulao-benhvien-hangbs",
+    "path": "/thulao/benhvien/hangbs",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\benhvien\\\\hangbs\\\\index.vue",
+    "chunkName": "pages/thulao/benhvien/hangbs/index",
+    "_name": "_da676cf2"
+  },
+  {
+    "name": "thulao-benhvien-ngoaigio",
+    "path": "/thulao/benhvien/ngoaigio",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\benhvien\\\\ngoaigio\\\\index.vue",
+    "chunkName": "pages/thulao/benhvien/ngoaigio/index",
+    "_name": "_1e4d2bbb"
+  },
+  {
+    "name": "thulao-benhvien-phauthuat",
+    "path": "/thulao/benhvien/phauthuat",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\benhvien\\\\phauthuat\\\\index.vue",
+    "chunkName": "pages/thulao/benhvien/phauthuat/index",
+    "_name": "_d623013c"
+  },
+  {
+    "name": "thulao-benhvien-thcls",
+    "path": "/thulao/benhvien/thcls",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\benhvien\\\\thcls\\\\index.vue",
+    "chunkName": "pages/thulao/benhvien/thcls/index",
+    "_name": "_0673f034"
+  },
+  {
+    "name": "thulao-benhvien-thuthuat",
+    "path": "/thulao/benhvien/thuthuat",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\benhvien\\\\thuthuat\\\\index.vue",
+    "chunkName": "pages/thulao/benhvien/thuthuat/index",
+    "_name": "_0951a737"
+  },
+  {
+    "name": "thulao-benhvien-tonghop",
+    "path": "/thulao/benhvien/tonghop",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\benhvien\\\\tonghop\\\\index.vue",
+    "chunkName": "pages/thulao/benhvien/tonghop/index",
+    "_name": "_023fceb5"
+  },
+  {
+    "name": "thulao-his_pd-admin",
+    "path": "/thulao/his_pd/admin",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\his_pd\\\\admin\\\\index.vue",
+    "chunkName": "pages/thulao/his_pd/admin/index",
+    "_name": "_0bbc09a3"
+  },
+  {
+    "name": "thulao-his_pd-chamsocsaupt",
+    "path": "/thulao/his_pd/chamsocsaupt",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\his_pd\\\\chamsocsaupt\\\\index.vue",
+    "chunkName": "pages/thulao/his_pd/chamsocsaupt/index",
+    "_name": "_7fcfd00d"
+  },
+  {
+    "name": "thulao-his_pd-chidinhekipphauthuat",
+    "path": "/thulao/his_pd/chidinhekipphauthuat",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\his_pd\\\\chidinhekipphauthuat\\\\index.vue",
+    "chunkName": "pages/thulao/his_pd/chidinhekipphauthuat/index",
+    "_name": "_5d5cdbac"
+  },
+  {
+    "name": "thulao-his_pd-dieutrinoitru",
+    "path": "/thulao/his_pd/dieutrinoitru",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\his_pd\\\\dieutrinoitru\\\\index.vue",
+    "chunkName": "pages/thulao/his_pd/dieutrinoitru/index",
+    "_name": "_da662fa6"
+  },
+  {
+    "name": "thulao-his_pd-tonghopdv",
+    "path": "/thulao/his_pd/tonghopdv",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\his_pd\\\\tonghopdv\\\\index.vue",
+    "chunkName": "pages/thulao/his_pd/tonghopdv/index",
+    "_name": "_547e204b"
+  },
+  {
+    "name": "thulao-his_pd-tonghopdv_bhyt",
+    "path": "/thulao/his_pd/tonghopdv_bhyt",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\his_pd\\\\tonghopdv_bhyt\\\\index.vue",
+    "chunkName": "pages/thulao/his_pd/tonghopdv_bhyt/index",
+    "_name": "_0bcae12e"
+  },
+  {
+    "name": "thulao-his_pd-tonghopksk",
+    "path": "/thulao/his_pd/tonghopksk",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\his_pd\\\\tonghopksk\\\\index.vue",
+    "chunkName": "pages/thulao/his_pd/tonghopksk/index",
+    "_name": "_fedeaf98"
+  },
+  {
+    "name": "thulao-his_pd-tonghopksk_bsketluan",
+    "path": "/thulao/his_pd/tonghopksk_bsketluan",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\his_pd\\\\tonghopksk_bsketluan\\\\index.vue",
+    "chunkName": "pages/thulao/his_pd/tonghopksk_bsketluan/index",
+    "_name": "_3cd749d4"
+  },
+  {
+    "name": "thulao-his_pd-tonghopksk_ddketluan",
+    "path": "/thulao/his_pd/tonghopksk_ddketluan",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\his_pd\\\\tonghopksk_ddketluan\\\\index.vue",
+    "chunkName": "pages/thulao/his_pd/tonghopksk_ddketluan/index",
+    "_name": "_01c1877a"
+  },
+  {
+    "name": "thulao-his_pd-tonghopksk_ngoaivien",
+    "path": "/thulao/his_pd/tonghopksk_ngoaivien",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\his_pd\\\\tonghopksk_ngoaivien\\\\index.vue",
+    "chunkName": "pages/thulao/his_pd/tonghopksk_ngoaivien/index",
+    "_name": "_39051639"
+  },
+  {
+    "name": "thulao-his_pd-tonghopksk_visa",
+    "path": "/thulao/his_pd/tonghopksk_visa",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\his_pd\\\\tonghopksk_visa\\\\index.vue",
+    "chunkName": "pages/thulao/his_pd/tonghopksk_visa/index",
+    "_name": "_32de3ac0"
+  },
+  {
+    "name": "thulao-his_pd-updatemore",
+    "path": "/thulao/his_pd/updatemore",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\his_pd\\\\updatemore\\\\index.vue",
+    "chunkName": "pages/thulao/his_pd/updatemore/index",
+    "_name": "_26341424"
+  },
+  {
+    "name": "thulao-q7-admin",
+    "path": "/thulao/q7/admin",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\q7\\\\admin\\\\index.vue",
+    "chunkName": "pages/thulao/q7/admin/index",
+    "_name": "_5e5bb3f0"
+  },
+  {
+    "name": "thulao-q7-cdcls",
+    "path": "/thulao/q7/cdcls",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\q7\\\\cdcls\\\\index.vue",
+    "chunkName": "pages/thulao/q7/cdcls/index",
+    "_name": "_99656024"
+  },
+  {
+    "name": "thulao-q7-congkham",
+    "path": "/thulao/q7/congkham",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\q7\\\\congkham\\\\index.vue",
+    "chunkName": "pages/thulao/q7/congkham/index",
+    "_name": "_53f15b62"
+  },
+  {
+    "name": "thulao-q7-gayme",
+    "path": "/thulao/q7/gayme",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\q7\\\\gayme\\\\index.vue",
+    "chunkName": "pages/thulao/q7/gayme/index",
+    "_name": "_17ddd7a0"
+  },
+  {
+    "name": "thulao-q7-thcls",
+    "path": "/thulao/q7/thcls",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\q7\\\\thcls\\\\index.vue",
+    "chunkName": "pages/thulao/q7/thcls/index",
+    "_name": "_156ab4c1"
+  },
+  {
+    "name": "thulao-q7-thuthuat",
+    "path": "/thulao/q7/thuthuat",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\q7\\\\thuthuat\\\\index.vue",
+    "chunkName": "pages/thulao/q7/thuthuat/index",
+    "_name": "_67f47b8a"
+  },
+  {
+    "name": "thulao-q7-tonghop",
+    "path": "/thulao/q7/tonghop",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\thulao\\\\q7\\\\tonghop\\\\index.vue",
+    "chunkName": "pages/thulao/q7/tonghop/index",
+    "_name": "_2e97a402"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\thulao\\\\tmhsg\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2573477c"
+  }
+]
